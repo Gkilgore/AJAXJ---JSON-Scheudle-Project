@@ -1,7 +1,10 @@
-body {
+ body {
             padding: 20px;
         }
-
         .schedule {
             margin-top: 20px;
+        }
+        /* Styling to highlight the current class */
+        .current-class {
+            background-color: yellow;
         }
