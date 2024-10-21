@@ -1,0 +1,39 @@
+{
+  "schedule": [
+    {
+      "class": "AP Computer Science",
+      "teacher": "Mr. Kilgore",
+      "room": "203",
+      "period": 1,
+      "days": ["A", "C", "E"]
+    },
+    {
+      "class": "Math Analysis",
+      "teacher": "Ms. Lee",
+      "room": "105",
+      "period": 2,
+      "days": ["B", "D", "F"]
+    },
+    {
+      "class": "English Literature",
+      "teacher": "Ms. Thompson",
+      "room": "110",
+      "period": 3,
+      "days": ["A", "C", "E"]
+    },
+    {
+      "class": "Physics",
+      "teacher": "Mr. Brown",
+      "room": "305",
+      "period": 4,
+      "days": ["B", "D", "G"]
+    },
+    {
+      "class": "Art",
+      "teacher": "Ms. Williams",
+      "room": "202",
+      "period": 5,
+      "days": ["A", "C", "G"]
+    }
+  ]
+}
